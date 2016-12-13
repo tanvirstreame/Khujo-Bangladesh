@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Khujo Bangladesh</string>
+    <string name="khujo_bangladesh">Khujo Bangladesh</string>
+    <string name="title_activity_khujun">Khujun</string>
+    <string name="title_activity_maymensingh">Maymensingh</string>
+    <string name="title_activity_khulna">Khulna</string>
+    <string name="title_activity_chittagong">Chittagong</string>
+    <string name="Khulna">Khulna</string>
+    <string name="Rangpur">Rangpur</string>
+    <string name="Sylhet">Sylhet</string>
+    <string name="Comilla">Comilla</string>
+    <string name="Dhaka">Dhaka</string>
+    <string name="Division">Division Of Bangladesh</string>
+    <string name="Rajshahi">Rajshahi</string>
+</resources>
